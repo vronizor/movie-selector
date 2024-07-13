@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Random IMDB Movies</title>
+</head>
+<body>
+    <h1>Random IMDB Movies</h1>
+    <form>
+        <label for="num_movies">Number of movies:</label>
+        <input type="number" id="num_movies" name="num_movies" value="1">
+        <button type="submit">Get random movies!</button>
+    </form>
+    <div id="movie_list"></div>
+
+    <script>
+        const form = document.querySelector("form");
+        form.addEventListener("submit", async (e) => {
+            e.preventDefault();
+            const numMovies = document.querySelector("#num_movies").value;
+            const response = await fetch(`/random_movies?num_movies=${numMovies}`);
+            const data = await response.json();
+            const movieList = document.querySelector("#movie_list");
+            movieList.innerHTML = "";
+            data.random_movies.forEach((movie) => {
+                const movieHTML = `
+                    <p>${movie.title} (${movie.year})</p>
+                `;
+                movieList.innerHTML += movieHTML;
+            });
+        });
+    </script>
+</body>
+</html>

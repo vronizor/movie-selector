@@ -1,0 +1,1752 @@
+[
+    {
+        "rank": 1,
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "rating": "9.3 (2.9M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 2,
+        "title": "The Godfather",
+        "year": 1972,
+        "rating": "9.2 (2M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 3,
+        "title": "The Dark Knight",
+        "year": 2008,
+        "rating": "9.0 (2.9M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 4,
+        "title": "The Godfather Part II",
+        "year": 1974,
+        "rating": "9.0 (1.4M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 5,
+        "title": "12 Angry Men",
+        "year": 1957,
+        "rating": "9.0 (874K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 6,
+        "title": "Schindler's List",
+        "year": 1993,
+        "rating": "9.0 (1.5M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 7,
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "rating": "9.0 (2M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 8,
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "rating": "8.9 (2.2M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 9,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 2001,
+        "rating": "8.9 (2M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 10,
+        "title": "The Good, the Bad and the Ugly",
+        "year": 1966,
+        "rating": "8.8 (817K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 11,
+        "title": "Forrest Gump",
+        "year": 1994,
+        "rating": "8.8 (2.3M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 12,
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": 2002,
+        "rating": "8.8 (1.8M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 13,
+        "title": "Fight Club",
+        "year": 1999,
+        "rating": "8.8 (2.3M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 14,
+        "title": "Inception",
+        "year": 2010,
+        "rating": "8.8 (2.6M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 15,
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "year": 1980,
+        "rating": "8.7 (1.4M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 16,
+        "title": "The Matrix",
+        "year": 1999,
+        "rating": "8.7 (2.1M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 17,
+        "title": "Goodfellas",
+        "year": 1990,
+        "rating": "8.7 (1.3M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 18,
+        "title": "One Flew Over the Cuckoo's Nest",
+        "year": 1975,
+        "rating": "8.7 (1.1M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 19,
+        "title": "Se7en",
+        "year": 1995,
+        "rating": "8.6 (1.8M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 20,
+        "title": "Interstellar",
+        "year": 2014,
+        "rating": "8.7 (2.1M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 21,
+        "title": "It's a Wonderful Life",
+        "year": 1946,
+        "rating": "8.6 (502K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 22,
+        "title": "Seven Samurai",
+        "year": 1954,
+        "rating": "8.6 (369K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 23,
+        "title": "The Silence of the Lambs",
+        "year": 1991,
+        "rating": "8.6 (1.6M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 24,
+        "title": "Saving Private Ryan",
+        "year": 1998,
+        "rating": "8.6 (1.5M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 25,
+        "title": "City of God",
+        "year": 2002,
+        "rating": "8.6 (807K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 26,
+        "title": "Life Is Beautiful",
+        "year": 1997,
+        "rating": "8.6 (749K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 27,
+        "title": "The Green Mile",
+        "year": 1999,
+        "rating": "8.6 (1.4M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 28,
+        "title": "Terminator 2: Judgment Day",
+        "year": 1991,
+        "rating": "8.6 (1.2M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 29,
+        "title": "Star Wars: Episode IV - A New Hope",
+        "year": 1977,
+        "rating": "8.6 (1.5M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 30,
+        "title": "Back to the Future",
+        "year": 1985,
+        "rating": "8.5 (1.3M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 31,
+        "title": "Spirited Away",
+        "year": 2001,
+        "rating": "8.6 (860K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 32,
+        "title": "The Pianist",
+        "year": 2002,
+        "rating": "8.5 (922K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 33,
+        "title": "Parasite",
+        "year": 2019,
+        "rating": "8.5 (976K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 34,
+        "title": "Psycho",
+        "year": 1960,
+        "rating": "8.5 (724K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 35,
+        "title": "Dune: Part Two",
+        "year": 2024,
+        "rating": "8.6 (472K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 36,
+        "title": "Gladiator",
+        "year": 2000,
+        "rating": "8.5 (1.6M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 37,
+        "title": "The Lion King",
+        "year": 1994,
+        "rating": "8.5 (1.2M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 38,
+        "title": "Spider-Man: Across the Spider-Verse",
+        "year": 2023,
+        "rating": "8.6 (385K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 39,
+        "title": "The Departed",
+        "year": 2006,
+        "rating": "8.5 (1.4M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 40,
+        "title": "L\u00e9on: The Professional",
+        "year": 1994,
+        "rating": "8.5 (1.3M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 41,
+        "title": "American History X",
+        "year": 1998,
+        "rating": "8.5 (1.2M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 42,
+        "title": "Whiplash",
+        "year": 2014,
+        "rating": "8.5 (1M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 43,
+        "title": "The Prestige",
+        "year": 2006,
+        "rating": "8.5 (1.5M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 44,
+        "title": "Grave of the Fireflies",
+        "year": 1988,
+        "rating": "8.5 (315K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 45,
+        "title": "Harakiri",
+        "year": 1962,
+        "rating": "8.6 (70K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 46,
+        "title": "The Usual Suspects",
+        "year": 1995,
+        "rating": "8.5 (1.2M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 47,
+        "title": "Casablanca",
+        "year": 1942,
+        "rating": "8.5 (610K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 48,
+        "title": "The Intouchables",
+        "year": 2011,
+        "rating": "8.5 (937K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 49,
+        "title": "Cinema Paradiso",
+        "year": 1988,
+        "rating": "8.5 (285K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 50,
+        "title": "Modern Times",
+        "year": 1936,
+        "rating": "8.5 (261K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 51,
+        "title": "Rear Window",
+        "year": 1954,
+        "rating": "8.5 (526K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 52,
+        "title": "Once Upon a Time in the West",
+        "year": 1968,
+        "rating": "8.5 (351K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 53,
+        "title": "Alien",
+        "year": 1979,
+        "rating": "8.5 (960K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 54,
+        "title": "City Lights",
+        "year": 1931,
+        "rating": "8.5 (197K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 55,
+        "title": "Django Unchained",
+        "year": 2012,
+        "rating": "8.5 (1.7M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 56,
+        "title": "Apocalypse Now",
+        "year": 1979,
+        "rating": "8.4 (715K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 57,
+        "title": "Memento",
+        "year": 2000,
+        "rating": "8.4 (1.3M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 58,
+        "title": "WALL\u00b7E",
+        "year": 2008,
+        "rating": "8.4 (1.2M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 59,
+        "title": "Raiders of the Lost Ark",
+        "year": 1981,
+        "rating": "8.4 (1M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 60,
+        "title": "12th Fail",
+        "year": 2023,
+        "rating": "8.9 (121K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 61,
+        "title": "The Lives of Others",
+        "year": 2006,
+        "rating": "8.4 (413K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 62,
+        "title": "Sunset Boulevard",
+        "year": 1950,
+        "rating": "8.4 (238K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 63,
+        "title": "Avengers: Infinity War",
+        "year": 2018,
+        "rating": "8.4 (1.2M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 64,
+        "title": "Paths of Glory",
+        "year": 1957,
+        "rating": "8.4 (214K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 65,
+        "title": "Spider-Man: Into the Spider-Verse",
+        "year": 2018,
+        "rating": "8.4 (682K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 66,
+        "title": "Witness for the Prosecution",
+        "year": 1957,
+        "rating": "8.4 (139K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 67,
+        "title": "The Shining",
+        "year": 1980,
+        "rating": "8.4 (1.1M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 68,
+        "title": "The Great Dictator",
+        "year": 1940,
+        "rating": "8.4 (239K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 69,
+        "title": "Aliens",
+        "year": 1986,
+        "rating": "8.4 (769K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 70,
+        "title": "Inglourious Basterds",
+        "year": 2009,
+        "rating": "8.4 (1.6M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 71,
+        "title": "The Dark Knight Rises",
+        "year": 2012,
+        "rating": "8.4 (1.8M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 72,
+        "title": "Coco",
+        "year": 2017,
+        "rating": "8.4 (601K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 73,
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "year": 1964,
+        "rating": "8.3 (521K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 74,
+        "title": "Amadeus",
+        "year": 1984,
+        "rating": "8.4 (431K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 75,
+        "title": "Oldboy",
+        "year": 2003,
+        "rating": "8.3 (642K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 76,
+        "title": "American Beauty",
+        "year": 1999,
+        "rating": "8.3 (1.2M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 77,
+        "title": "Toy Story",
+        "year": 1995,
+        "rating": "8.3 (1.1M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 78,
+        "title": "Avengers: Endgame",
+        "year": 2019,
+        "rating": "8.4 (1.3M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 79,
+        "title": "Das Boot",
+        "year": 1981,
+        "rating": "8.4 (266K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 80,
+        "title": "Braveheart",
+        "year": 1995,
+        "rating": "8.3 (1.1M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 81,
+        "title": "Good Will Hunting",
+        "year": 1997,
+        "rating": "8.3 (1.1M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 82,
+        "title": "Princess Mononoke",
+        "year": 1997,
+        "rating": "8.3 (438K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 83,
+        "title": "Joker",
+        "year": 2019,
+        "rating": "8.4 (1.5M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 84,
+        "title": "Your Name.",
+        "year": 2016,
+        "rating": "8.4 (327K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 85,
+        "title": "High and Low",
+        "year": 1963,
+        "rating": "8.4 (54K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 86,
+        "title": "3 Idiots",
+        "year": 2009,
+        "rating": "8.4 (439K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 87,
+        "title": "Once Upon a Time in America",
+        "year": 1984,
+        "rating": "8.3 (381K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 88,
+        "title": "Singin' in the Rain",
+        "year": 1952,
+        "rating": "8.3 (263K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 89,
+        "title": "Capernaum",
+        "year": 2018,
+        "rating": "8.4 (107K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 90,
+        "title": "Come and See",
+        "year": 1985,
+        "rating": "8.4 (99K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 91,
+        "title": "Requiem for a Dream",
+        "year": 2000,
+        "rating": "8.3 (905K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 92,
+        "title": "Toy Story 3",
+        "year": 2010,
+        "rating": "8.3 (899K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 93,
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "year": 1983,
+        "rating": "8.3 (1.1M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 94,
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": 2004,
+        "rating": "8.3 (1.1M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 95,
+        "title": "The Hunt",
+        "year": 2012,
+        "rating": "8.3 (368K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 96,
+        "title": "2001: A Space Odyssey",
+        "year": 1968,
+        "rating": "8.3 (725K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 97,
+        "title": "Reservoir Dogs",
+        "year": 1992,
+        "rating": "8.3 (1.1M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 98,
+        "title": "Ikiru",
+        "year": 1952,
+        "rating": "8.3 (89K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 99,
+        "title": "Lawrence of Arabia",
+        "year": 1962,
+        "rating": "8.3 (317K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 100,
+        "title": "Oppenheimer",
+        "year": 2023,
+        "rating": "8.3 (767K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 101,
+        "title": "The Apartment",
+        "year": 1960,
+        "rating": "8.3 (199K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 102,
+        "title": "Incendies",
+        "year": 2010,
+        "rating": "8.3 (205K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 103,
+        "title": "North by Northwest",
+        "year": 1959,
+        "rating": "8.3 (348K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 104,
+        "title": "Citizen Kane",
+        "year": 1941,
+        "rating": "8.3 (468K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 105,
+        "title": "Scarface",
+        "year": 1983,
+        "rating": "8.3 (925K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 106,
+        "title": "Double Indemnity",
+        "year": 1944,
+        "rating": "8.3 (169K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 107,
+        "title": "M",
+        "year": 1931,
+        "rating": "8.3 (170K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 108,
+        "title": "Vertigo",
+        "year": 1958,
+        "rating": "8.3 (430K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 109,
+        "title": "Full Metal Jacket",
+        "year": 1987,
+        "rating": "8.3 (796K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 110,
+        "title": "Am\u00e9lie",
+        "year": 2001,
+        "rating": "8.3 (798K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 111,
+        "title": "Heat",
+        "year": 1995,
+        "rating": "8.3 (725K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 112,
+        "title": "Up",
+        "year": 2009,
+        "rating": "8.3 (1.1M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 113,
+        "title": "A Clockwork Orange",
+        "year": 1971,
+        "rating": "8.3 (886K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 114,
+        "title": "To Kill a Mockingbird",
+        "year": 1962,
+        "rating": "8.3 (335K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 115,
+        "title": "A Separation",
+        "year": 2011,
+        "rating": "8.3 (260K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 116,
+        "title": "The Sting",
+        "year": 1973,
+        "rating": "8.3 (281K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 117,
+        "title": "Indiana Jones and the Last Crusade",
+        "year": 1989,
+        "rating": "8.2 (816K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 118,
+        "title": "Die Hard",
+        "year": 1988,
+        "rating": "8.2 (952K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 119,
+        "title": "Like Stars on Earth",
+        "year": 2007,
+        "rating": "8.3 (208K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 120,
+        "title": "Metropolis",
+        "year": 1927,
+        "rating": "8.3 (187K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 121,
+        "title": "Snatch",
+        "year": 2000,
+        "rating": "8.2 (917K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 122,
+        "title": "1917",
+        "year": 2019,
+        "rating": "8.2 (686K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 123,
+        "title": "L.A. Confidential",
+        "year": 1997,
+        "rating": "8.2 (622K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 124,
+        "title": "Bicycle Thieves",
+        "year": 1948,
+        "rating": "8.3 (176K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 125,
+        "title": "Hamilton",
+        "year": 2020,
+        "rating": "8.3 (116K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 126,
+        "title": "Taxi Driver",
+        "year": 1976,
+        "rating": "8.2 (930K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 127,
+        "title": "Downfall",
+        "year": 2004,
+        "rating": "8.2 (377K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 128,
+        "title": "Dangal",
+        "year": 2016,
+        "rating": "8.3 (213K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 129,
+        "title": "Batman Begins",
+        "year": 2005,
+        "rating": "8.2 (1.6M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 130,
+        "title": "For a Few Dollars More",
+        "year": 1965,
+        "rating": "8.2 (277K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 131,
+        "title": "The Wolf of Wall Street",
+        "year": 2013,
+        "rating": "8.2 (1.6M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 132,
+        "title": "Some Like It Hot",
+        "year": 1959,
+        "rating": "8.2 (285K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 133,
+        "title": "Green Book",
+        "year": 2018,
+        "rating": "8.2 (583K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 134,
+        "title": "The Kid",
+        "year": 1921,
+        "rating": "8.2 (136K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 135,
+        "title": "The Father",
+        "year": 2020,
+        "rating": "8.2 (196K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 136,
+        "title": "Judgment at Nuremberg",
+        "year": 1961,
+        "rating": "8.3 (86K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 137,
+        "title": "The Truman Show",
+        "year": 1998,
+        "rating": "8.2 (1.2M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 138,
+        "title": "All About Eve",
+        "year": 1950,
+        "rating": "8.2 (140K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 139,
+        "title": "Shutter Island",
+        "year": 2010,
+        "rating": "8.2 (1.5M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 140,
+        "title": "Top Gun: Maverick",
+        "year": 2022,
+        "rating": "8.2 (715K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 141,
+        "title": "There Will Be Blood",
+        "year": 2007,
+        "rating": "8.2 (646K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 142,
+        "title": "Casino",
+        "year": 1995,
+        "rating": "8.2 (569K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 143,
+        "title": "Jurassic Park",
+        "year": 1993,
+        "rating": "8.2 (1.1M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 144,
+        "title": "Ran",
+        "year": 1985,
+        "rating": "8.2 (137K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 145,
+        "title": "The Sixth Sense",
+        "year": 1999,
+        "rating": "8.2 (1.1M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 146,
+        "title": "Pan's Labyrinth",
+        "year": 2006,
+        "rating": "8.2 (707K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 147,
+        "title": "Unforgiven",
+        "year": 1992,
+        "rating": "8.2 (439K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 148,
+        "title": "No Country for Old Men",
+        "year": 2007,
+        "rating": "8.2 (1.1M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 149,
+        "title": "A Beautiful Mind",
+        "year": 2001,
+        "rating": "8.2 (993K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 150,
+        "title": "The Thing",
+        "year": 1982,
+        "rating": "8.2 (471K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 151,
+        "title": "Kill Bill: Vol. 1",
+        "year": 2003,
+        "rating": "8.2 (1.2M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 152,
+        "title": "The Treasure of the Sierra Madre",
+        "year": 1948,
+        "rating": "8.2 (133K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 153,
+        "title": "Yojimbo",
+        "year": 1961,
+        "rating": "8.2 (132K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 154,
+        "title": "Monty Python and the Holy Grail",
+        "year": 1975,
+        "rating": "8.2 (573K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 155,
+        "title": "The Great Escape",
+        "year": 1963,
+        "rating": "8.2 (261K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 156,
+        "title": "Finding Nemo",
+        "year": 2003,
+        "rating": "8.2 (1.1M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 157,
+        "title": "Prisoners",
+        "year": 2013,
+        "rating": "8.2 (819K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 158,
+        "title": "Howl's Moving Castle",
+        "year": 2004,
+        "rating": "8.2 (455K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 159,
+        "title": "Rashomon",
+        "year": 1950,
+        "rating": "8.2 (182K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 160,
+        "title": "The Elephant Man",
+        "year": 1980,
+        "rating": "8.2 (260K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 161,
+        "title": "Dial M for Murder",
+        "year": 1954,
+        "rating": "8.2 (190K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 162,
+        "title": "Chinatown",
+        "year": 1974,
+        "rating": "8.1 (353K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 163,
+        "title": "Gone with the Wind",
+        "year": 1939,
+        "rating": "8.2 (336K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 164,
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "year": 1998,
+        "rating": "8.1 (620K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 165,
+        "title": "V for Vendetta",
+        "year": 2005,
+        "rating": "8.2 (1.2M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 166,
+        "title": "The Secret in Their Eyes",
+        "year": 2009,
+        "rating": "8.2 (224K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 167,
+        "title": "Inside Out",
+        "year": 2015,
+        "rating": "8.1 (808K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 168,
+        "title": "Raging Bull",
+        "year": 1980,
+        "rating": "8.1 (383K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 169,
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "year": 2017,
+        "rating": "8.1 (559K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 170,
+        "title": "Trainspotting",
+        "year": 1996,
+        "rating": "8.1 (730K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 171,
+        "title": "The Bridge on the River Kwai",
+        "year": 1957,
+        "rating": "8.1 (235K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 172,
+        "title": "Klaus",
+        "year": 2019,
+        "rating": "8.2 (192K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 173,
+        "title": "Fargo",
+        "year": 1996,
+        "rating": "8.1 (731K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 174,
+        "title": "Catch Me If You Can",
+        "year": 2002,
+        "rating": "8.1 (1.1M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 175,
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "rating": "8.2 (892K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 176,
+        "title": "Warrior",
+        "year": 2011,
+        "rating": "8.1 (501K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 177,
+        "title": "Gran Torino",
+        "year": 2008,
+        "rating": "8.1 (819K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 178,
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "year": 2011,
+        "rating": "8.1 (956K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 179,
+        "title": "Million Dollar Baby",
+        "year": 2004,
+        "rating": "8.1 (726K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 180,
+        "title": "My Neighbor Totoro",
+        "year": 1988,
+        "rating": "8.1 (385K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 181,
+        "title": "Children of Heaven",
+        "year": 1997,
+        "rating": "8.2 (82K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 182,
+        "title": "12 Years a Slave",
+        "year": 2013,
+        "rating": "8.1 (745K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 183,
+        "title": "Ben-Hur",
+        "year": 1959,
+        "rating": "8.1 (255K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 184,
+        "title": "Blade Runner",
+        "year": 1982,
+        "rating": "8.1 (828K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 185,
+        "title": "Before Sunrise",
+        "year": 1995,
+        "rating": "8.1 (343K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 186,
+        "title": "Mad Max: Fury Road",
+        "year": 2015,
+        "rating": "8.1 (1.1M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 187,
+        "title": "Barry Lyndon",
+        "year": 1975,
+        "rating": "8.1 (185K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 188,
+        "title": "The Grand Budapest Hotel",
+        "year": 2014,
+        "rating": "8.1 (893K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 189,
+        "title": "Gone Girl",
+        "year": 2014,
+        "rating": "8.1 (1.1M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 190,
+        "title": "Hacksaw Ridge",
+        "year": 2016,
+        "rating": "8.1 (602K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 191,
+        "title": "Dead Poets Society",
+        "year": 1989,
+        "rating": "8.1 (553K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 192,
+        "title": "Memories of Murder",
+        "year": 2003,
+        "rating": "8.1 (220K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 193,
+        "title": "The Gold Rush",
+        "year": 1925,
+        "rating": "8.1 (119K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 194,
+        "title": "In the Name of the Father",
+        "year": 1993,
+        "rating": "8.1 (188K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 195,
+        "title": "Monsters, Inc.",
+        "year": 2001,
+        "rating": "8.1 (987K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 196,
+        "title": "Wild Tales",
+        "year": 2014,
+        "rating": "8.1 (218K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 197,
+        "title": "The Deer Hunter",
+        "year": 1978,
+        "rating": "8.1 (365K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 198,
+        "title": "The General",
+        "year": 1926,
+        "rating": "8.1 (99K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 199,
+        "title": "Sherlock Jr.",
+        "year": 1924,
+        "rating": "8.2 (58K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 200,
+        "title": "On the Waterfront",
+        "year": 1954,
+        "rating": "8.1 (166K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 201,
+        "title": "Jaws",
+        "year": 1975,
+        "rating": "8.1 (666K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 202,
+        "title": "How to Train Your Dragon",
+        "year": 2010,
+        "rating": "8.1 (807K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 203,
+        "title": "Mary and Max",
+        "year": 2009,
+        "rating": "8.1 (188K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 204,
+        "title": "Ratatouille",
+        "year": 2007,
+        "rating": "8.1 (836K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 205,
+        "title": "The Third Man",
+        "year": 1949,
+        "rating": "8.1 (183K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 206,
+        "title": "The Wages of Fear",
+        "year": 1953,
+        "rating": "8.1 (67K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 207,
+        "title": "Wild Strawberries",
+        "year": 1957,
+        "rating": "8.1 (116K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 208,
+        "title": "Mr. Smith Goes to Washington",
+        "year": 1939,
+        "rating": "8.1 (122K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 209,
+        "title": "Ford v Ferrari",
+        "year": 2019,
+        "rating": "8.1 (485K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 210,
+        "title": "Tokyo Story",
+        "year": 1953,
+        "rating": "8.1 (69K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 211,
+        "title": "The Big Lebowski",
+        "year": 1998,
+        "rating": "8.1 (866K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 212,
+        "title": "Rocky",
+        "year": 1976,
+        "rating": "8.1 (633K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 213,
+        "title": "The Seventh Seal",
+        "year": 1957,
+        "rating": "8.1 (200K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 214,
+        "title": "Room",
+        "year": 2015,
+        "rating": "8.1 (454K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 215,
+        "title": "Logan",
+        "year": 2017,
+        "rating": "8.1 (840K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 216,
+        "title": "Spotlight",
+        "year": 2015,
+        "rating": "8.1 (505K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 217,
+        "title": "Hotel Rwanda",
+        "year": 2004,
+        "rating": "8.1 (374K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 218,
+        "title": "The Terminator",
+        "year": 1984,
+        "rating": "8.1 (932K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 219,
+        "title": "Platoon",
+        "year": 1986,
+        "rating": "8.1 (443K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 220,
+        "title": "La haine",
+        "year": 1995,
+        "rating": "8.1 (199K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 221,
+        "title": "Before Sunset",
+        "year": 2004,
+        "rating": "8.1 (291K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 222,
+        "title": "The Passion of Joan of Arc",
+        "year": 1928,
+        "rating": "8.1 (61K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 223,
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "year": 2003,
+        "rating": "8.1 (1.2M)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 224,
+        "title": "The Best Years of Our Lives",
+        "year": 1946,
+        "rating": "8.1 (71K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 225,
+        "title": "Jai Bhim",
+        "year": 2021,
+        "rating": "8.7 (219K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 226,
+        "title": "The Exorcist",
+        "year": 1973,
+        "rating": "8.1 (459K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 227,
+        "title": "Rush",
+        "year": 2013,
+        "rating": "8.1 (518K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 228,
+        "title": "Network",
+        "year": 1976,
+        "rating": "8.1 (172K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 229,
+        "title": "The Wizard of Oz",
+        "year": 1939,
+        "rating": "8.1 (431K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 230,
+        "title": "Stand by Me",
+        "year": 1986,
+        "rating": "8.1 (446K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 231,
+        "title": "The Incredibles",
+        "year": 2004,
+        "rating": "8.0 (817K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 232,
+        "title": "Hachi: A Dog's Tale",
+        "year": 2009,
+        "rating": "8.1 (314K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 233,
+        "title": "The Sound of Music",
+        "year": 1965,
+        "rating": "8.1 (263K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 234,
+        "title": "The Handmaiden",
+        "year": 2016,
+        "rating": "8.1 (175K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 235,
+        "title": "My Father and My Son",
+        "year": 2005,
+        "rating": "8.2 (93K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 236,
+        "title": "Into the Wild",
+        "year": 2007,
+        "rating": "8.1 (662K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 237,
+        "title": "To Be or Not to Be",
+        "year": 1942,
+        "rating": "8.1 (44K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 238,
+        "title": "The Battle of Algiers",
+        "year": 1966,
+        "rating": "8.1 (66K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 239,
+        "title": "The Grapes of Wrath",
+        "year": 1940,
+        "rating": "8.1 (101K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 240,
+        "title": "Groundhog Day",
+        "year": 1993,
+        "rating": "8.0 (690K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 241,
+        "title": "Amores Perros",
+        "year": 2000,
+        "rating": "8.1 (254K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 242,
+        "title": "The Iron Giant",
+        "year": 1999,
+        "rating": "8.1 (230K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 243,
+        "title": "Rebecca",
+        "year": 1940,
+        "rating": "8.1 (148K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 244,
+        "title": "Cool Hand Luke",
+        "year": 1967,
+        "rating": "8.1 (190K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 245,
+        "title": "The Help",
+        "year": 2011,
+        "rating": "8.1 (496K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 246,
+        "title": "It Happened One Night",
+        "year": 1934,
+        "rating": "8.1 (113K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 247,
+        "title": "Aladdin",
+        "year": 1992,
+        "rating": "8.0 (472K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 248,
+        "title": "Dances with Wolves",
+        "year": 1990,
+        "rating": "8.0 (294K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 249,
+        "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+        "year": 2020,
+        "rating": "8.2 (75K)",
+        "list": "IMDB top 250"
+    },
+    {
+        "rank": 250,
+        "title": "Gangs of Wasseypur",
+        "year": 2012,
+        "rating": "8.2 (105K)",
+        "list": "IMDB top 250"
+    }
+]

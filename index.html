@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Random Movie Picker</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f0f0f0;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .container {
+                max-width: 800px;
+                margin: 40px auto;
+                padding: 20px;
+                background-color: #fff;
+                border: 1px solid #ddd;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .form-group {
+                margin-bottom: 20px;
+            }
+
+            .form-control {
+                width: 50px;
+                height: 40px;
+                padding: 10px;
+                font-size: 16px;
+                border: 1px solid #ccc;
+            }
+
+            .checkbox {
+                margin-right: 20px;
+            }
+
+            .button {
+                background-color: #4CAF50;
+                color: #fff;
+                padding: 10px 20px;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                align: center;
+            }
+
+            .button:hover {
+                background-color: #3e8e41;
+            }
+
+            .movie-card {
+                margin: 20px;
+                padding: 20px;
+                border: 1px solid #ddd;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                width: 300px;
+                display: inline-block;
+                margin-right: 20px;
+            }
+
+            .movie-card {
+                margin: 20px;
+                padding: 20px;
+                border: 1px solid #ddd;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                width: 300px;
+                display: inline-block;
+                margin-right: 20px;
+            }
+
+            .title {
+                font-size: 24px;
+                font-weight: bold;
+                margin-bottom: 10px;
+            }
+
+            .year {
+                font-size: 16px;
+                color: #666;
+                margin-bottom: 10px;
+            }
+
+            .rank-list {
+                font-size: 14px;
+                color: #999;
+            }
+        </style>
+    </head>
+<body>
+    <div class="container">
+        <h1>Random Movie Picker</h1>
+
+        <form>
+            <div class="form-group">
+                <label for="num_movies">Number of movies:</label>
+                <input type="number" id="num_movies" name="num_movies" value="1" class="form-control">
+            </div>
+
+            <div class="form-group">
+                <input type="checkbox" id="imdb_checkbox" name="imdb_checkbox">
+                <label for="imdb_checkbox">IMDB Top 250</label>
+                
+                
+                <input type="checkbox" id="bfi_checkbox" name="bfi_checkbox">
+                <label for="bfi_checkbox">BFI Top 250</label>
+                
+                <input type="checkbox" id="rotten_checkbox" name="rotten_checkbox">
+                <label for="rotten_checkbox">Rotten Tomatoes Top 300</label>
+            </div>
+        
+            <button type="submit", class="button">Get random movies!</button>
+        </form>
+
+        <div id="movie_list"></div>
+    </div>
+
+    <script>
+        const form = document.querySelector("form");
+        form.addEventListener("submit", async (e) => {
+            e.preventDefault();
+            const numMovies = document.querySelector("#num_movies").value;
+            const imdbChecked = document.querySelector("#imdb_checkbox").checked;
+            const bfiChecked = document.querySelector("#bfi_checkbox").checked;
+            const rottenChecked = document.querySelector("#rotten_checkbox").checked;
+            const response = await fetch(`/random_movies?num_movies=${numMovies}&imdb_checkbox=${imdbChecked}&bfi_checkbox=${bfiChecked}&rotten_checkbox=${rottenChecked}`);
+            const data = await response.json();
+            const movieList = document.querySelector("#movie_list");
+            movieList.innerHTML = "";
+            data.random_movies.forEach((movie) => {
+                const movieCard = document.createElement("div");
+                movieCard.className = "movie-card";
+                const movieHTML = `
+                    <p class="title">${movie.title}</p>
+                    <p class="year">${movie.year}</p>
+                    <p class="rank-list">#${movie.rank} — ${movie.list}</p>
+                `;
+                movieCard.innerHTML = movieHTML;
+                movieList.appendChild(movieCard);
+            });
+        });
+    </script>
+</body>
+</html>
